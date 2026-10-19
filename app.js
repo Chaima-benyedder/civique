@@ -191,14 +191,15 @@ function afficherQuestion() {
     btn.onclick = () => (modeExamen ? repondreExamen(i) : repondre(i));
     document.getElementById("choix").appendChild(btn);
   });
-  if (modeExamen) {
-    majChrono();
-    const abandon = document.createElement("button");
-    abandon.textContent = "Abandonner l'examen";
-    abandon.className = "reset";
-    abandon.onclick = abandonnerExamen;
-    app.appendChild(abandon);
-  }
+  if (modeExamen) majChrono();
+
+  // Bouton pour quitter : présent dans les thèmes ET dans l'examen
+  const quitter = document.createElement("button");
+  quitter.id = "quitter";
+  quitter.textContent = modeExamen ? "Abandonner l'examen" : "Quitter ce thème";
+  quitter.className = "reset";
+  quitter.onclick = quitterQuiz;
+  app.appendChild(quitter);
 }
 
 // ---------- Mode thème : correction immédiate ----------
@@ -218,7 +219,7 @@ function repondre(choisi) {
   suivant.textContent = "Suivant";
   suivant.className = "suivant";
   suivant.onclick = questionSuivante;
-  app.appendChild(suivant);
+  app.insertBefore(suivant, document.getElementById("quitter")); // "Suivant" au-dessus de "Quitter"
 }
 
 function questionSuivante() {
@@ -285,8 +286,11 @@ function arreterChrono() {
   chrono = null;
 }
 
-function abandonnerExamen() {
-  if (confirm("Abandonner l'examen ? Cette tentative ne sera pas enregistrée.")) {
+function quitterQuiz() {
+  const message = modeExamen
+    ? "Abandonner l'examen ? Cette tentative ne sera pas enregistrée."
+    : "Quitter ce thème ? Le score de cette tentative ne sera pas enregistré.";
+  if (confirm(message)) {
     modeExamen = false;
     arreterChrono();
     afficherAccueil();
