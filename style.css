@@ -1,0 +1,103 @@
+:root {
+  --bleu: #2f4bd8;
+  --bleu-clair: #e8ecff;
+  --texte: #1f2a44;
+  --vert: #2e9e3e;
+  --vert-clair: #d9f7dc;
+  --rouge: #c0392b;
+  --rouge-clair: #ffdede;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  font-family: system-ui, sans-serif;
+  margin: 0;
+  background: var(--bleu-clair);
+  color: var(--texte);
+  min-height: 100vh;
+}
+
+/* Bande bleu-blanc-rouge en haut */
+body::before {
+  content: "";
+  display: block;
+  height: 6px;
+  background: linear-gradient(to right, #2f4bd8 33%, #fff 33% 66%, #e03a3a 66%);
+}
+
+#app {
+  max-width: 480px;
+  margin: 24px auto;
+  padding: 24px;
+  background: white;
+  border-radius: 16px;
+  box-shadow: 0 6px 20px rgba(47, 75, 216, 0.15);
+}
+
+h2 { font-size: 20px; line-height: 1.4; margin: 8px 0 16px; }
+
+/* Barre de progression */
+.barre {
+  height: 8px;
+  background: var(--bleu-clair);
+  border-radius: 4px;
+  overflow: hidden;
+}
+.barre-remplie {
+  height: 100%;
+  background: var(--bleu);
+  transition: width 0.4s ease;
+}
+.compteur { font-size: 14px; color: #667; margin: 8px 0 0; }
+
+/* Boutons de réponse */
+button {
+  display: block;
+  width: 100%;
+  padding: 14px;
+  margin: 10px 0;
+  font-size: 16px;
+  color: var(--texte);
+  background: white;
+  border: 2px solid #ccd3f0;
+  border-radius: 12px;
+  text-align: left;
+  cursor: pointer;
+  transition: transform 0.1s, background 0.2s;
+}
+button:active:not(:disabled) { transform: scale(0.98); background: var(--bleu-clair); }
+button:disabled { opacity: 1; cursor: default; }
+
+button.bonne { background: var(--vert-clair); border-color: var(--vert); }
+button.mauvaise { background: var(--rouge-clair); border-color: var(--rouge); }
+
+/* Explication */
+#feedback {
+  background: var(--bleu-clair);
+  padding: 12px;
+  border-radius: 10px;
+  font-size: 15px;
+}
+#feedback:empty { display: none; }
+
+/* Bouton Suivant / Recommencer */
+button.suivant {
+  background: var(--bleu);
+  color: white;
+  border-color: var(--bleu);
+  text-align: center;
+  font-weight: 600;
+}
+button.suivant:active { background: #2339b0; }
+h1 { font-size: 24px; margin: 8px 0; }
+
+button.theme { padding: 16px; }
+button.theme small { color: #667; }
+button.theme:disabled { opacity: 0.5; }
+button.reset { text-align: center; font-size: 14px; color: #c0392b; border-color: transparent; background: none; margin-top: 20px; }
+
+.chrono { text-align: right; font-weight: 600; margin: 0 0 8px; }
+button.examen { border-color: var(--bleu); margin-top: 16px; }
+.erreur { background: #fff6f6; border-left: 4px solid var(--rouge); padding: 10px 12px; border-radius: 8px; margin: 10px 0; }
+.erreur p { margin: 4px 0; }

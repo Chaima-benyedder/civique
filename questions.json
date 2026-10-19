@@ -1,0 +1,388 @@
+[
+  {
+    "id": 1, "theme": "principes",
+    "question": "Quelle est la devise de la République française ?",
+    "choix": ["Liberté, Égalité, Fraternité", "Travail, Famille, Patrie", "Unité, Justice, Progrès", "Paix, Pain, Liberté"],
+    "reponse": 0,
+    "explication": "« Travail, Famille, Patrie » était la devise du régime de Vichy, pas de la République.",
+    "source": "Livret p. 6 et p. 44"
+  },
+  {
+    "id": 2, "theme": "histoire-geo-culture",
+    "question": "En quelle année a eu lieu la prise de la Bastille ?",
+    "choix": ["1689", "1789", "1815", "1848"],
+    "reponse": 1,
+    "explication": "Le 14 juillet 1789, ce qui marque le début de la Révolution française.",
+    "source": "Livret p. 40"
+  },
+  {
+    "id": 3, "theme": "histoire-geo-culture",
+    "question": "Quel est le plus long fleuve de France ?",
+    "choix": ["La Seine", "La Loire", "Le Rhône", "La Garonne"],
+    "reponse": 1,
+    "explication": "La Loire est le plus long fleuve français, connu pour ses paysages naturels et ses châteaux.",
+    "source": "Livret p. 51"
+  },
+  {
+    "id": 4, "theme": "principes",
+    "question": "Quel jour la laïcité est-elle officiellement célébrée en France ?",
+    "choix": ["Le 14 juillet", "Le 9 décembre", "Le 11 novembre", "Le 1er mai"],
+    "reponse": 1,
+    "explication": "Le 9 décembre, en référence à la loi de 1905 sur la séparation des Églises et de l'État.",
+    "source": "Livret p. 10"
+  },
+  {
+    "id": 5, "theme": "principes",
+    "question": "En France, le blasphème (critiquer ou se moquer d'une religion) est-il un délit ?",
+    "choix": ["Oui, il est puni d'une amende", "Non, ce n'est pas un délit", "Oui, mais seulement dans la rue", "Oui, mais seulement à l'école"],
+    "reponse": 1,
+    "explication": "Chacun peut critiquer une religion : c'est la liberté d'expression. Ses limites sont l'injure, la diffamation, l'incitation à la haine, etc.",
+    "source": "Livret p. 11-12"
+  },
+  {
+    "id": 6, "theme": "institutions",
+    "question": "Pour combien d'années le Président de la République est-il élu ?",
+    "choix": ["4 ans", "5 ans", "6 ans", "7 ans"],
+    "reponse": 1,
+    "explication": "Il est élu au suffrage universel direct pour cinq ans, renouvelables une fois.",
+    "source": "Livret p. 16"
+  },
+  {
+    "id": 7, "theme": "institutions",
+    "question": "Combien de départements compte la France (métropole et outre-mer) ?",
+    "choix": ["96", "99", "101", "105"],
+    "reponse": 2,
+    "explication": "101 départements : 96 en métropole et 5 en outre-mer. Le plus récent est Mayotte (2011).",
+    "source": "Livret p. 19"
+  },
+  {
+    "id": 8, "theme": "droits-devoirs",
+    "question": "Le vote est-il obligatoire en France ?",
+    "choix": ["Oui, pour tous les citoyens", "Oui, mais seulement à la présidentielle", "Non, mais c'est un devoir civique important", "Non, et ce n'est pas un devoir civique"],
+    "reponse": 2,
+    "explication": "Le vote n'est pas obligatoire, mais il assure la légitimité des représentants élus.",
+    "source": "Livret p. 34"
+  },
+  {
+    "id": 9, "theme": "droits-devoirs",
+    "question": "Vous êtes témoin d'un accident grave et vous pouvez aider sans vous mettre en danger. Que devez-vous faire ?",
+    "choix": ["Rien, ce n'est pas votre affaire", "Porter secours ou prévenir les secours", "Attendre l'arrivée de la police", "Filmer la scène"],
+    "reponse": 1,
+    "explication": "Le devoir d'assistance à personne en danger existe. La non-assistance est un délit puni par la loi.",
+    "source": "Livret p. 36"
+  },
+  {
+    "id": 10, "theme": "vie-societe",
+    "question": "Quel numéro d'urgence appeler pour les sapeurs-pompiers ?",
+    "choix": ["15", "17", "18", "115"],
+    "reponse": 2,
+    "explication": "Le 18 pour les pompiers. Le 15 est le SAMU, le 17 la police secours, le 112 l'appel d'urgence européen.",
+    "source": "Livret p. 69"
+  },
+  {
+    "id": 11, "theme": "vie-societe",
+    "question": "De quel âge à quel âge la scolarité est-elle obligatoire en France ?",
+    "choix": ["De 3 à 16 ans", "De 6 à 16 ans", "De 5 à 18 ans", "De 3 à 18 ans"],
+    "reponse": 0,
+    "explication": "L'instruction est obligatoire de 3 à 16 ans. Les parents qui ne respectent pas cette règle s'exposent à des sanctions.",
+    "source": "Livret p. 36 et p. 75"
+  },
+  {
+    "id": 12, "theme": "histoire-geo-culture",
+    "question": "Quel ministre de la Justice a soutenu l'abolition de la peine de mort en 1981 ?",
+    "choix": ["Simone Veil", "Robert Badinter", "Christiane Taubira", "Jules Ferry"],
+    "reponse": 1,
+    "explication": "Robert Badinter, ministre de François Mitterrand. Depuis 1981, la peine de mort est interdite par la loi.",
+    "source": "Livret p. 46"
+  },
+  {
+    "id": 13, "theme": "histoire-geo-culture",
+    "question": "Quelle est la plus haute montagne de France ?",
+    "choix": ["Le Mont-Blanc", "Le Mont Ventoux", "Le Puy de Dôme", "Le Pic du Midi"],
+    "reponse": 0,
+    "explication": "Le Mont-Blanc (4 810 m) est aussi la plus haute montagne d'Europe, d'après le livret.",
+    "source": "Livret p. 51"
+  },
+    {
+    "id": 14, "theme": "principes",
+    "question": "Selon l'article 4 de la Déclaration des droits de l'homme et du citoyen, la liberté consiste à…",
+    "choix": ["pouvoir faire tout ce qui ne nuit pas à autrui", "faire tout ce que l'on veut", "obéir aux décisions du gouvernement", "choisir soi-même les lois qui s'appliquent à nous"],
+    "reponse": 0,
+    "explication": "La liberté s'arrête là où commence celle des autres, et ses limites sont définies par la loi.",
+    "source": "Livret p. 6"
+  },
+  {
+    "id": 15, "theme": "principes",
+    "question": "Depuis quelle année l'égalité entre les femmes et les hommes est-elle inscrite dans le préambule de la Constitution ?",
+    "choix": ["1789", "1946", "1958", "1974"],
+    "reponse": 1,
+    "explication": "Elle figure dans le préambule depuis 1946 et s'applique dans tous les domaines : travail, santé, éducation…",
+    "source": "Livret p. 6"
+  },
+  {
+    "id": 16, "theme": "principes",
+    "question": "Un employeur refuse d'embaucher une personne à cause de son origine. Que dit la loi ?",
+    "choix": ["C'est une discrimination, punie par la loi", "C'est autorisé : l'employeur choisit librement", "C'est autorisé dans les petites entreprises", "C'est autorisé la première fois seulement"],
+    "reponse": 0,
+    "explication": "Toute décision d'un employeur doit être fondée sur des raisons professionnelles, pas personnelles. Les discriminations sont punies par la loi.",
+    "source": "Livret p. 6-7"
+  },
+  {
+    "id": 17, "theme": "principes",
+    "question": "Sur quoi repose la fraternité républicaine ?",
+    "choix": ["La capacité à voir en l'autre un semblable malgré les différences", "Le partage de la même origine", "Le partage de la même religion", "Le partage de la même langue maternelle"],
+    "reponse": 0,
+    "explication": "La fraternité républicaine est civique : elle n'est basée ni sur l'origine ni sur la religion.",
+    "source": "Livret p. 7"
+  },
+  {
+    "id": 18, "theme": "principes",
+    "question": "Quel est un exemple de solidarité entre les générations ?",
+    "choix": ["Les salariés, en cotisant, contribuent au versement des retraites", "Les enfants choisissent le métier de leurs parents", "Chaque famille garde ses économies pour ses seuls enfants", "Les jeunes votent à 16 ans"],
+    "reponse": 0,
+    "explication": "La solidarité intergénérationnelle se traduit par le soutien entre générations, par exemple via les cotisations retraite.",
+    "source": "Livret p. 7"
+  },
+  {
+    "id": 19, "theme": "principes",
+    "question": "Depuis quelle année le 14 juillet est-il la fête nationale ?",
+    "choix": ["1789", "1790", "1880", "1958"],
+    "reponse": 2,
+    "explication": "Depuis 1880, le 14 juillet est la fête nationale.",
+    "source": "Livret p. 8"
+  },
+  {
+    "id": 20, "theme": "principes",
+    "question": "Quels événements le 14 juillet commémore-t-il ?",
+    "choix": ["La prise de la Bastille (1789) et la Fête de la Fédération (1790)", "La fin de la Première et de la Seconde Guerre mondiale", "La signature de la Déclaration des droits de l'homme et de la Constitution de 1958", "Le début de la Première République et l'exécution de Louis XVI"],
+    "reponse": 0,
+    "explication": "Le 14 juillet 1789 marque le début de la Révolution française, et le 14 juillet 1790 est la Fête de la Fédération.",
+    "source": "Livret p. 8 et p. 57"
+  },
+  {
+    "id": 21, "theme": "principes",
+    "question": "Qui a écrit La Marseillaise, et en quelle année ?",
+    "choix": ["Rouget de Lisle, en 1792", "Victor Hugo, en 1848", "Napoléon Bonaparte, en 1804", "Jules Ferry, en 1882"],
+    "reponse": 0,
+    "explication": "L'hymne national a été écrit en 1792 par Rouget de Lisle. Il est étudié par les enfants à l'école primaire.",
+    "source": "Livret p. 8"
+  },
+  {
+    "id": 22, "theme": "principes",
+    "question": "Que porte Marianne, symbole de la République, sur la tête ?",
+    "choix": ["Un bonnet phrygien", "Une couronne royale", "Un casque militaire", "Un voile"],
+    "reponse": 0,
+    "explication": "Le bonnet phrygien est le symbole de la liberté. La statue de Marianne est placée dans toutes les mairies.",
+    "source": "Livret p. 8"
+  },
+  {
+    "id": 23, "theme": "principes",
+    "question": "Quel est le statut du coq selon la Constitution ?",
+    "choix": ["Il n'a pas de statut officiel, mais il est largement reconnu comme symbole national", "C'est l'emblème officiel inscrit dans la Constitution", "C'est le symbole officiel de la Ve République", "Il remplace Marianne dans les mairies"],
+    "reponse": 0,
+    "explication": "Le coq représente la fierté, le courage et la vigilance. Il est utilisé depuis l'Antiquité.",
+    "source": "Livret p. 8"
+  },
+  {
+    "id": 24, "theme": "principes",
+    "question": "En quelle année le drapeau tricolore est-il devenu le drapeau officiel de la France ?",
+    "choix": ["1789", "1794", "1815", "1870"],
+    "reponse": 1,
+    "explication": "Créé pendant la Révolution, il est officiel depuis 1794, sauf pendant la Restauration (1814-1830).",
+    "source": "Livret p. 8"
+  },
+  {
+    "id": 25, "theme": "principes",
+    "question": "Selon l'article 1er de la Constitution de 1958, la France est une République…",
+    "choix": ["indivisible, laïque, démocratique et sociale", "unie, libre, égalitaire et fraternelle", "fédérale, laïque, démocratique et sociale", "indivisible, religieuse, libérale et sociale"],
+    "reponse": 0,
+    "explication": "Ces quatre mots définissent les principes de la République.",
+    "source": "Livret p. 10"
+  },
+  {
+    "id": 26, "theme": "principes",
+    "question": "Que signifie « une République indivisible » ?",
+    "choix": ["Tous les Français, en métropole comme en outre-mer, sont soumis aux mêmes lois et ont les mêmes droits et devoirs", "Chaque région vote ses propres lois", "Les départements d'outre-mer ont leurs propres lois", "Le territoire ne peut pas être découpé en départements"],
+    "reponse": 0,
+    "explication": "C'est ce qu'on appelle l'unité de la République. La France a aussi une seule langue officielle : le français.",
+    "source": "Livret p. 10"
+  },
+  {
+    "id": 27, "theme": "principes",
+    "question": "Quelle loi de 1905 est à l'origine de la laïcité à la française ?",
+    "choix": ["La loi sur la séparation des Églises et de l'État", "La loi sur l'école gratuite", "La loi sur la liberté de la presse", "La loi sur le droit de vote des femmes"],
+    "reponse": 0,
+    "explication": "La loi du 9 décembre 1905 sépare l'État et les organisations religieuses.",
+    "source": "Livret p. 11 et p. 43"
+  },
+  {
+    "id": 28, "theme": "principes",
+    "question": "L'État a-t-il le droit de payer un personnel religieux ?",
+    "choix": ["En principe non, avec quelques exceptions comme l'Alsace et la Moselle", "Oui, pour toutes les religions", "Oui, mais pour une seule religion", "Oui, si la commune le décide"],
+    "reponse": 0,
+    "explication": "L'État ne soutient aucune organisation religieuse. En Alsace-Moselle, des accords spéciaux existent pour des raisons historiques.",
+    "source": "Livret p. 11"
+  },
+  {
+    "id": 29, "theme": "principes",
+    "question": "Une personne distribue des tracts sur sa religion dans la rue, sans troubler l'ordre public. Est-ce autorisé ?",
+    "choix": ["Oui, le prosélytisme est autorisé s'il n'y a ni violence, ni menace, ni pression", "Non, c'est toujours interdit", "Non, sauf avec l'accord du maire", "Oui, mais seulement dans les lieux de culte"],
+    "reponse": 0,
+    "explication": "Le prosélytisme est permis dans l'espace public, mais interdit dans les services publics.",
+    "source": "Livret p. 11"
+  },
+  {
+    "id": 30, "theme": "principes",
+    "question": "Parmi ces éléments, lequel n'est PAS une limite à la liberté d'expression ?",
+    "choix": ["Le blasphème", "La diffamation", "L'incitation à la haine raciale ou religieuse", "Le négationnisme"],
+    "reponse": 0,
+    "explication": "Critiquer une religion n'est pas un délit. Les limites sont la diffamation, l'injure, l'incitation à la haine, l'incitation à discriminer, le négationnisme…",
+    "source": "Livret p. 12"
+  },
+  {
+    "id": 31, "theme": "principes",
+    "question": "Une usagère porte un voile pour faire une démarche dans une mairie. Est-ce possible ?",
+    "choix": ["Oui, la neutralité ne s'impose pas aux usagers, qui doivent respecter les règles de fonctionnement du service", "Non, les signes religieux sont interdits à tous dans un service public", "Oui, et elle peut exiger que le service s'adapte à sa religion", "Non, sauf le lundi"],
+    "reponse": 0,
+    "explication": "Seuls les agents publics sont tenus à la neutralité. En revanche, on ne peut pas exiger qu'un service public s'adapte au nom d'une religion.",
+    "source": "Livret p. 12"
+  },
+  {
+    "id": 32, "theme": "principes",
+    "question": "Quelle loi du 11 octobre 2010 interdit la dissimulation du visage dans l'espace public ?",
+    "choix": ["Elle protège l'ordre public (cagoule, masque, voile intégral…)", "Elle interdit tous les signes religieux dans la rue", "Elle s'applique seulement dans les écoles", "Elle ne concerne que les manifestations"],
+    "reponse": 0,
+    "explication": "En France, on peut montrer sa religion dans l'espace public, mais pas dissimuler son visage.",
+    "source": "Livret p. 12"
+  },
+  {
+    "id": 33, "theme": "principes",
+    "question": "Qu'interdit la loi du 15 mars 2004 dans les écoles publiques ?",
+    "choix": ["Le port de signes ou de vêtements par lesquels on manifeste ostensiblement sa religion", "Tout signe religieux, même discret", "L'enseignement des religions dans l'histoire", "La présence des parents dans l'école"],
+    "reponse": 0,
+    "explication": "Les signes discrets sont autorisés. On ne peut pas non plus refuser une règle ou un enseignement du programme au nom de sa religion.",
+    "source": "Livret p. 13"
+  },
+  {
+    "id": 34, "theme": "principes",
+    "question": "Un salarié d'une entreprise privée peut-il porter un signe religieux au travail ?",
+    "choix": ["Oui, sauf si cela perturbe le bon fonctionnement de l'entreprise ou pour des raisons de sécurité", "Non, jamais", "Oui, sans aucune limite", "Oui, mais seulement s'il travaille dans un bureau"],
+    "reponse": 0,
+    "explication": "La neutralité s'impose aux agents publics, pas aux salariés du privé, dont l'employeur peut cependant fixer des limites justifiées par les tâches.",
+    "source": "Livret p. 13"
+  },
+  {
+    "id": 35, "theme": "principes",
+    "question": "Comment le peuple exerce-t-il la souveraineté nationale (article 3 de la Constitution) ?",
+    "choix": ["Par ses représentants et par la voie du référendum", "Uniquement par le Président de la République", "Uniquement par les tribunaux", "Par les préfets"],
+    "reponse": 0,
+    "explication": "La France est une démocratie : la souveraineté appartient au peuple.",
+    "source": "Livret p. 14"
+  },
+
+
+  {"id":36,"theme":"institutions","question":"Quel pouvoir est exercé par les députés et les sénateurs ?","choix":["Le pouvoir législatif : élaborer et voter les lois","Le pouvoir exécutif : mettre en œuvre les lois","Le pouvoir judiciaire : rendre la justice","Le pouvoir militaire : diriger les armées"],"reponse":0,"explication":"Les trois pouvoirs sont le législatif (députés et sénateurs), l'exécutif (le gouvernement) et le judiciaire (les juges).","source":"Livret p. 16"},
+  {"id":37,"theme":"institutions","question":"Qui est le chef de l'État et des armées ?","choix":["Le Président de la République","Le Premier ministre","Le président de l'Assemblée nationale","Le président du Sénat"],"reponse":0,"explication":"Le Président est élu au suffrage universel direct pour cinq ans, renouvelables une fois. Il nomme le Gouvernement sur proposition du Premier ministre.","source":"Livret p. 16"},
+  {"id":38,"theme":"institutions","question":"Combien de parrainages d'élus faut-il obtenir pour se présenter à l'élection présidentielle ?","choix":["500","100","1 000","5 000"],"reponse":0,"explication":"Seuls les candidats qui ont obtenu 500 parrainages d'élus peuvent se présenter.","source":"Livret p. 16"},
+  {"id":39,"theme":"institutions","question":"Combien y a-t-il de députés à l'Assemblée nationale ?","choix":["577","348","500","650"],"reponse":0,"explication":"577 députés, élus au suffrage universel direct tous les cinq ans. Les sénateurs sont 348.","source":"Livret p. 16"},
+  {"id":40,"theme":"institutions","question":"Comment les sénateurs sont-ils élus ?","choix":["Au suffrage universel indirect, pour six ans","Au suffrage universel direct, pour cinq ans","Ils sont nommés par le Président de la République","Ils sont désignés par tirage au sort"],"reponse":0,"explication":"Les 348 sénateurs sont élus au suffrage universel indirect pour un mandat de six ans.","source":"Livret p. 16 et p. 18"},
+  {"id":41,"theme":"institutions","question":"Quel est le rôle du Conseil constitutionnel ?","choix":["Veiller à la conformité des lois avec la Constitution","Rédiger les lois","Juger les litiges entre particuliers","Nommer les ministres"],"reponse":0,"explication":"Il contrôle aussi la régularité des élections nationales.","source":"Livret p. 17"},
+  {"id":42,"theme":"institutions","question":"En quelle année les Françaises ont-elles voté pour la première fois ?","choix":["1945","1848","1914","1968"],"reponse":0,"explication":"Elles ont obtenu le droit de vote en avril 1944 et ont voté un an plus tard, en avril 1945. Le premier vote au suffrage universel (1848) ne concernait que les hommes.","source":"Livret p. 17"},
+  {"id":43,"theme":"institutions","question":"Dans un bureau de vote, deux personnes veulent entrer ensemble dans l'isoloir. Est-ce possible ?","choix":["Non, le vote est personnel et secret : il est interdit d'entrer à plusieurs dans un isoloir","Oui, si ce sont des amis","Oui, si l'une des deux a besoin d'aide pour lire","Oui, avec l'accord du maire"],"reponse":0,"explication":"Il est aussi interdit de communiquer avec une personne située dans un autre isoloir.","source":"Livret p. 17"},
+  {"id":44,"theme":"institutions","question":"Dans quelles communes la pièce d'identité n'est-elle pas obligatoire pour voter ?","choix":["Celles de moins de 1 000 habitants","Celles de moins de 100 habitants","Celles de moins de 10 000 habitants","Aucune : elle est obligatoire partout"],"reponse":0,"explication":"Mais en cas de doute, le président du bureau de vote peut demander de prouver son identité par tout moyen.","source":"Livret p. 17"},
+  {"id":45,"theme":"institutions","question":"Laquelle de ces missions relève de la commune ?","choix":["Tenir les registres de l'état civil (naissances, mariages, décès)","Gérer les collèges publics","Construire et entretenir les lycées","Assurer la protection de l'enfance"],"reponse":0,"explication":"Les communes gèrent aussi les écoles primaires publiques et l'entretien des routes communales. Les collèges relèvent des départements, les lycées des régions.","source":"Livret p. 19"},
+  {"id":46,"theme":"institutions","question":"Qui est responsable des collèges publics ?","choix":["Le département","La commune","La région","L'intercommunalité"],"reponse":0,"explication":"Le département gère aussi l'action sociale, les routes départementales, la protection de l'enfance et l'aide aux personnes âgées.","source":"Livret p. 19"},
+  {"id":47,"theme":"institutions","question":"Combien de régions la France compte-t-elle (métropole et outre-mer) ?","choix":["18","13","12","22"],"reponse":0,"explication":"13 régions métropolitaines et 5 en outre-mer. Les régions gèrent notamment les lycées, les transports publics et la formation professionnelle.","source":"Livret p. 19"},
+  {"id":48,"theme":"institutions","question":"Lequel de ces territoires est à la fois un département et une région d'outre-mer ?","choix":["La Guadeloupe","La Polynésie française","La Nouvelle-Calédonie","Saint-Pierre-et-Miquelon"],"reponse":0,"explication":"Les 5 sont la Guadeloupe, la Martinique, Mayotte, la Guyane et La Réunion. Les 7 autres sont des collectivités d'outre-mer à statut particulier.","source":"Livret p. 20"},
+  {"id":49,"theme":"institutions","question":"Combien de pays ont fondé la Communauté économique européenne en 1957 ?","choix":["6","9","12","27"],"reponse":0,"explication":"Le traité de Rome de 1957 réunit six pays fondateurs, dont la France. L'Union compte aujourd'hui 27 États membres.","source":"Livret p. 22"},
+  {"id":50,"theme":"institutions","question":"Quel traité, signé en 1992, a créé l'Union européenne ?","choix":["Le traité de Maastricht","Le traité de Rome","Le traité de Versailles","Le traité de Lisbonne"],"reponse":0,"explication":"En 1992 sont aussi créées la citoyenneté européenne et la Banque centrale européenne.","source":"Livret p. 22-23"},
+  {"id":51,"theme":"institutions","question":"Depuis quelle année les pièces et billets en euros circulent-ils ?","choix":["2002","1992","1998","2007"],"reponse":0,"explication":"Depuis le 1er janvier 2002. La France partage cette monnaie avec d'autres pays membres de l'Union.","source":"Livret p. 23"},
+  {"id":52,"theme":"institutions","question":"Où siège le Parlement européen ?","choix":["À Strasbourg, en France","À Bruxelles, en Belgique","À Francfort, en Allemagne","À Luxembourg"],"reponse":0,"explication":"Ses députés sont élus tous les cinq ans. La Commission européenne siège à Bruxelles, la Banque centrale européenne à Francfort.","source":"Livret p. 23"},
+  {"id":53,"theme":"institutions","question":"En quelle année le Royaume-Uni a-t-il quitté l'Union européenne (Brexit) ?","choix":["2020","2016","2018","2022"],"reponse":0,"explication":"Après la sortie du Royaume-Uni, l'Union compte 27 membres.","source":"Livret p. 22"},
+
+  {"id":54,"theme":"droits-devoirs","question":"Qui a promulgué le Code civil, et en quelle année ?","choix":["Napoléon Bonaparte, en 1804","Louis XIV, en 1685","Jules Ferry, en 1882","Charles de Gaulle, en 1958"],"reponse":0,"explication":"Le Code civil définit les règles essentielles entre les personnes. Le Code pénal définit les infractions et les peines.","source":"Livret p. 25"},
+  {"id":55,"theme":"droits-devoirs","question":"Lequel de ces textes garantit les droits fondamentaux en France ?","choix":["La Déclaration des droits de l'homme et du citoyen de 1789","Le Code de la route","Le règlement intérieur d'une entreprise","Le livret de famille"],"reponse":0,"explication":"Autres textes : la Constitution de 1958, le préambule de 1946, la Charte de l'environnement de 2004, et la Convention européenne des droits de l'homme.","source":"Livret p. 25"},
+  {"id":56,"theme":"droits-devoirs","question":"Une personne est en prison. Conserve-t-elle sa liberté de culte ?","choix":["Oui, les personnes emprisonnées conservent la liberté de culte","Non, elle la perd le temps de sa peine","Oui, mais seulement le dimanche","Non, sauf autorisation du juge"],"reponse":0,"explication":"En revanche, les prisonniers sont privés de leur liberté de circulation le temps de leur peine.","source":"Livret p. 26-27"},
+  {"id":57,"theme":"droits-devoirs","question":"Sur les réseaux sociaux, quels contenus sont interdits ?","choix":["Ceux qui incitent à la haine ou à la violence","Tous ceux qui critiquent le gouvernement","Tous ceux qui parlent de religion","Aucun : tout est permis en ligne"],"reponse":0,"explication":"La liberté d'expression est protégée sur les réseaux sociaux, mais dans les limites fixées par la loi.","source":"Livret p. 26"},
+  {"id":58,"theme":"droits-devoirs","question":"Un mineur voyage à l'étranger sans ses parents. De quoi a-t-il besoin ?","choix":["D'une autorisation de sortie du territoire","D'une carte Vitale","D'un permis de conduire","D'un titre de séjour"],"reponse":0,"explication":"Les citoyens ont le droit d'entrer et de sortir du territoire librement, mais les mineurs doivent obtenir cette autorisation.","source":"Livret p. 27"},
+  {"id":59,"theme":"droits-devoirs","question":"Un médecin peut-il révéler le dossier médical d'un patient sans son consentement ?","choix":["Non, il est tenu au secret médical","Oui, à son employeur","Oui, à sa famille","Oui, à toute personne qui le demande"],"reponse":0,"explication":"Le secret professionnel et médical fait partie du droit au respect de la vie privée.","source":"Livret p. 28"},
+  {"id":60,"theme":"droits-devoirs","question":"Peut-on filmer une personne sans son autorisation dans un lieu privé ?","choix":["Non, c'est interdit : c'est une atteinte au droit à l'image","Oui, si c'est pour un usage personnel","Oui, si on la connaît","Oui, si elle ne s'en aperçoit pas"],"reponse":0,"explication":"C'est aussi interdit dans un lieu public où la personne peut supposer qu'elle ne sera pas observée ou écoutée.","source":"Livret p. 28"},
+  {"id":61,"theme":"droits-devoirs","question":"Une personne est employée par une entreprise sans être rémunérée. De quoi s'agit-il ?","choix":["D'une atteinte à la dignité","D'un contrat de travail normal","D'un contrat d'intérim","D'un congé parental"],"reponse":0,"explication":"La dignité humaine interdit l'esclavage et le travail forcé.","source":"Livret p. 28"},
+  {"id":62,"theme":"droits-devoirs","question":"La vaccination est-elle obligatoire pour les enfants ?","choix":["Oui","Non","Seulement après 10 ans","Seulement si le maire le décide"],"reponse":0,"explication":"En revanche, toute personne est libre de refuser un traitement ou un acte médical.","source":"Livret p. 29"},
+  {"id":63,"theme":"droits-devoirs","question":"Lequel de ces droits a une personne placée en garde à vue ?","choix":["Être assistée par un avocat","Choisir le policier qui l'interroge","Exiger d'être libérée immédiatement","Refuser de connaître les motifs de son arrestation"],"reponse":0,"explication":"Elle est informée des motifs de son arrestation et de ses droits : garder le silence, être assistée par un avocat et prévenir un proche.","source":"Livret p. 29"},
+  {"id":64,"theme":"droits-devoirs","question":"Que signifie la présomption d'innocence ?","choix":["Une personne est considérée comme innocente tant qu'aucune condamnation définitive n'a été prononcée","Une personne arrêtée est forcément innocente","Une personne ne peut jamais être jugée","Seul un avocat peut déclarer quelqu'un coupable"],"reponse":0,"explication":"Les peines doivent aussi être prévues par la loi et proportionnées aux faits reprochés.","source":"Livret p. 30"},
+  {"id":65,"theme":"droits-devoirs","question":"Quelle autorité indépendante, créée en 2011, intervient en cas de litige avec une administration ou de discrimination ?","choix":["Le Défenseur des droits","Le Conseil constitutionnel","Le conseil de prud'hommes","La Banque de France"],"reponse":0,"explication":"Il défend, entre autres, les droits des usagers des services publics.","source":"Livret p. 30"},
+  {"id":66,"theme":"droits-devoirs","question":"Que doit-on faire avant d'organiser une manifestation sur la voie publique ?","choix":["La déclarer auprès de l'administration","Demander l'autorisation du Président de la République","Prévenir uniquement les journalistes","Rien : aucune démarche n'est nécessaire"],"reponse":0,"explication":"La déclaration préalable précise notamment le parcours et identifie les organisateurs.","source":"Livret p. 31"},
+  {"id":67,"theme":"droits-devoirs","question":"Quelle loi de 1901 reconnaît le droit de créer ou de rejoindre une association ?","choix":["La loi du 1er juillet 1901","La loi du 9 décembre 1905","La loi du 29 juillet 1881","La loi du 21 mars 1884"],"reponse":0,"explication":"Une association qui ne respecte pas les principes républicains peut être dissoute par l'État.","source":"Livret p. 31"},
+  {"id":68,"theme":"droits-devoirs","question":"Comment appelle-t-on les infractions les plus graves (meurtre, viol, terrorisme…) ?","choix":["Les crimes","Les délits","Les contraventions","Les infractions mineures"],"reponse":0,"explication":"Les crimes sont jugés par la cour d'assises ou la cour criminelle et peuvent être punis de la réclusion criminelle jusqu'à la perpétuité.","source":"Livret p. 32-33"},
+  {"id":69,"theme":"droits-devoirs","question":"Quel tribunal juge les délits (vol, harcèlement moral, fraude fiscale…) ?","choix":["Le tribunal correctionnel","Le tribunal de police","La cour d'assises","Le conseil de prud'hommes"],"reponse":0,"explication":"Les délits sont punis d'une amende égale ou supérieure à 3 750 euros et d'une peine allant jusqu'à 10 ans de prison. Les contraventions relèvent du tribunal de police.","source":"Livret p. 32"},
+  {"id":70,"theme":"droits-devoirs","question":"L'outrage au drapeau tricolore ou à l'hymne national est-il puni par la loi ?","choix":["Oui, notamment lorsqu'il est commis lors d'une manifestation publique","Non, c'est de la liberté d'expression","Non, sauf à l'école","Oui, mais seulement pour les agents publics"],"reponse":0,"explication":"Le Code pénal protège les symboles qui représentent l'autorité et l'unité de la République.","source":"Livret p. 33"},
+  {"id":71,"theme":"droits-devoirs","question":"Qui doit déclarer ses revenus et payer ses impôts ?","choix":["Toute personne majeure résidant en France et non rattachée au foyer fiscal de ses parents, même si elle n'est pas française","Uniquement les Français","Uniquement les salariés","Uniquement les propriétaires"],"reponse":0,"explication":"Tous les résidents, et pas seulement les Français, participent au financement des services publics. Une fausse déclaration peut être sanctionnée.","source":"Livret p. 34"},
+  {"id":72,"theme":"droits-devoirs","question":"À partir de quel âge doit-on se faire recenser à la mairie pour participer à la Journée Défense et Citoyenneté ?","choix":["16 ans","14 ans","18 ans","21 ans"],"reponse":0,"explication":"Il n'y a plus de service militaire obligatoire en France depuis 1997.","source":"Livret p. 35"},
+
+  {"id":73,"theme":"histoire-geo-culture","question":"Quel roi franc a unifié plusieurs royaumes et adopté la religion chrétienne ?","choix":["Clovis","Louis XIV","Henri IV","Napoléon Bonaparte"],"reponse":0,"explication":"Clovis (466-511) marque une étape importante dans la construction de l'unité du territoire français.","source":"Livret p. 39"},
+  {"id":74,"theme":"histoire-geo-culture","question":"Quel roi promulgue l'édit de Nantes en 1598, qui met fin aux guerres de religion ?","choix":["Henri IV","Louis XIV","Louis XVI","Charles X"],"reponse":0,"explication":"L'édit de Nantes met fin aux guerres de religion entre catholiques et protestants.","source":"Livret p. 39"},
+  {"id":75,"theme":"histoire-geo-culture","question":"Quel roi, surnommé le « Roi-Soleil », a fait construire le château de Versailles ?","choix":["Louis XIV","Louis XVI","Henri IV","Louis XVIII"],"reponse":0,"explication":"Il a régné de 1643 à 1715.","source":"Livret p. 39"},
+  {"id":76,"theme":"histoire-geo-culture","question":"Qui a écrit les comédies « L'Avare » et « Le Bourgeois gentilhomme » ?","choix":["Molière","Victor Hugo","Charles Baudelaire","Rouget de Lisle"],"reponse":0,"explication":"Molière, dramaturge et comédien, a vécu au XVIIe siècle sous Louis XIV.","source":"Livret p. 39"},
+  {"id":77,"theme":"histoire-geo-culture","question":"Quel roi a été guillotiné en 1793 sur la place de la Concorde ?","choix":["Louis XVI","Louis XIV","Louis XVIII","Charles X"],"reponse":0,"explication":"Il est renversé le 10 août 1792, puis jugé. Sa tentative de fuite vers l'étranger avait dressé le peuple contre lui.","source":"Livret p. 40"},
+  {"id":78,"theme":"histoire-geo-culture","question":"Quel homme de la Révolution défend l'égalité et la République, mais dirige aussi la Terreur ?","choix":["Maximilien Robespierre","Le marquis de La Fayette","Victor Schoelcher","Georges Clemenceau"],"reponse":0,"explication":"Sous la Terreur, les personnes soupçonnées d'être des traîtres à la Révolution sont guillotinées. La Fayette, lui, a contribué à écrire la Déclaration de 1789.","source":"Livret p. 40"},
+  {"id":79,"theme":"histoire-geo-culture","question":"Qui est à l'origine du Code civil, de la Banque de France et de la création des préfets ?","choix":["Napoléon Bonaparte","Louis XIV","Jules Ferry","Charles de Gaulle"],"reponse":0,"explication":"Napoléon devient empereur en 1804 (Premier Empire) et abdique définitivement en 1815 après la bataille de Waterloo.","source":"Livret p. 41"},
+  {"id":80,"theme":"histoire-geo-culture","question":"En quelle année l'esclavage a-t-il été aboli en France ?","choix":["1848","1789","1881","1946"],"reponse":0,"explication":"Sous la Deuxième République. Victor Schoelcher rédige le décret. Napoléon avait rétabli l'esclavage en 1802.","source":"Livret p. 41-42"},
+  {"id":81,"theme":"histoire-geo-culture","question":"Quel jour est commémorée la journée nationale des mémoires de la traite, de l'esclavage et de leurs abolitions ?","choix":["Le 10 mai","Le 8 mai","Le 14 juillet","Le 11 novembre"],"reponse":0,"explication":"La loi Taubira de 2001 reconnaît la traite et l'esclavage comme un crime contre l'humanité.","source":"Livret p. 42"},
+  {"id":82,"theme":"histoire-geo-culture","question":"Quel ministre a rendu l'école publique gratuite en 1881, puis laïque et obligatoire en 1882 ?","choix":["Jules Ferry","Victor Schoelcher","Robert Badinter","Georges Clemenceau"],"reponse":0,"explication":"C'est sous la IIIe République, qui installe durablement le régime républicain en France.","source":"Livret p. 43"},
+  {"id":83,"theme":"histoire-geo-culture","question":"Quel jour commémore-t-on l'armistice de la Première Guerre mondiale ?","choix":["Le 11 novembre","Le 8 mai","Le 14 juillet","Le 1er mai"],"reponse":0,"explication":"L'armistice du 11 novembre 1918 met fin à la guerre. C'est un jour férié qui rend hommage à tous les morts pour la France.","source":"Livret p. 43"},
+  {"id":84,"theme":"histoire-geo-culture","question":"Quel maréchal met en place le régime de Vichy (1940-1944) ?","choix":["Philippe Pétain","Charles de Gaulle","Georges Clemenceau","Jean Moulin"],"reponse":0,"explication":"Le régime de Vichy est autoritaire et non démocratique. Il collabore avec l'Allemagne nazie.","source":"Livret p. 44"},
+  {"id":85,"theme":"histoire-geo-culture","question":"Qui lance l'appel du 18 juin 1940 à la radio britannique (BBC) ?","choix":["Charles de Gaulle","Philippe Pétain","Jean Moulin","Georges Pompidou"],"reponse":0,"explication":"Cet appel marque le début de la Résistance. De Gaulle est le chef de la France libre.","source":"Livret p. 44"},
+  {"id":86,"theme":"histoire-geo-culture","question":"Qui a unifié la Résistance française, avant d'être arrêté et torturé à mort par les nazis ?","choix":["Jean Moulin","Charles de Gaulle","Philippe Pétain","Robert Badinter"],"reponse":0,"explication":"Il était missionné par le général de Gaulle.","source":"Livret p. 44"},
+  {"id":87,"theme":"histoire-geo-culture","question":"Quel jour a lieu le débarquement des Alliés en Normandie ?","choix":["Le 6 juin 1944","Le 8 mai 1945","Le 25 août 1944","Le 11 novembre 1918"],"reponse":0,"explication":"Le débarquement lance la libération de la France. Paris est libérée le 25 août 1944. Le 8 mai 1945, l'Allemagne capitule.","source":"Livret p. 44"},
+  {"id":88,"theme":"histoire-geo-culture","question":"Qui est le premier Président de la Ve République ?","choix":["Charles de Gaulle","Georges Pompidou","François Mitterrand","Valéry Giscard d'Estaing"],"reponse":0,"explication":"La Constitution de 1958 est adoptée par référendum. La Ve République est toujours le régime politique de la France.","source":"Livret p. 45"},
+  {"id":89,"theme":"histoire-geo-culture","question":"Quelle guerre de décolonisation a duré de 1954 à 1962 ?","choix":["La guerre d'Algérie","La guerre d'Indochine","La guerre de Cent Ans","La Première Guerre mondiale"],"reponse":0,"explication":"La guerre d'Indochine a duré de 1946 à 1954. Dans les deux cas, ces pays obtiennent leur indépendance à l'issue des conflits.","source":"Livret p. 45"},
+  {"id":90,"theme":"histoire-geo-culture","question":"Qui est Président de la République de 1981 à 1995 ?","choix":["François Mitterrand","Valéry Giscard d'Estaing","Jacques Chirac","Georges Pompidou"],"reponse":0,"explication":"Il est réélu en 1988. Jacques Chirac lui succède en 1995.","source":"Livret p. 47"},
+  {"id":91,"theme":"histoire-geo-culture","question":"Quel Président de la Ve République est le seul à être décédé pendant son mandat ?","choix":["Georges Pompidou","Charles de Gaulle","François Mitterrand","Jacques Chirac"],"reponse":0,"explication":"Dans ce cas, le président du Sénat remplace le Président de la République jusqu'à la fin de l'élection présidentielle organisée en urgence.","source":"Livret p. 47"},
+  {"id":92,"theme":"histoire-geo-culture","question":"Quelle physicienne, née en Pologne, a reçu le prix Nobel de physique en 1903 puis le prix Nobel de chimie en 1911 ?","choix":["Marie Curie","Simone Veil","Simone de Beauvoir","Édith Piaf"],"reponse":0,"explication":"Marie Curie est une personnalité naturalisée qui a contribué au rayonnement de la France. Elle est inhumée au Panthéon.","source":"Livret p. 48"},
+  {"id":93,"theme":"histoire-geo-culture","question":"Avec combien de pays la France métropolitaine partage-t-elle ses frontières terrestres ?","choix":["8","6","10","12"],"reponse":0,"explication":"Allemagne, Andorre, Belgique, Espagne, Italie, Luxembourg, Monaco et Suisse.","source":"Livret p. 49"},
+  {"id":94,"theme":"histoire-geo-culture","question":"Quel statut la France a-t-elle à l'ONU, qui lui donne un droit de veto ?","choix":["Membre permanent du Conseil de sécurité","Membre fondateur de l'Union européenne","Présidente de l'Assemblée générale","Membre observateur"],"reponse":0,"explication":"Le droit de veto est la possibilité de bloquer une décision en votant contre. L'ONU a été créée en 1945.","source":"Livret p. 49"},
+  {"id":95,"theme":"histoire-geo-culture","question":"D'où décollent les fusées Ariane ?","choix":["Du pas de tir de Kourou, en Guyane","De Marseille","De Toulouse","De La Réunion"],"reponse":0,"explication":"La France joue un rôle central dans l'accès européen à l'espace, notamment via l'Agence spatiale européenne et Arianegroup.","source":"Livret p. 50"},
+  {"id":96,"theme":"histoire-geo-culture","question":"Quel fleuve traverse Lyon ?","choix":["Le Rhône","La Garonne","La Seine","La Loire"],"reponse":0,"explication":"Lyon est le chef-lieu de la région Auvergne-Rhône-Alpes. La Garonne traverse Toulouse et Bordeaux, la Seine traverse Paris.","source":"Livret p. 51"},
+  {"id":97,"theme":"histoire-geo-culture","question":"Quel fleuve délimite en partie la frontière entre la France et l'Allemagne ?","choix":["Le Rhin","Le Rhône","La Loire","La Seine"],"reponse":0,"explication":"Le Rhin délimite partiellement la frontière franco-allemande.","source":"Livret p. 51"},
+  {"id":98,"theme":"histoire-geo-culture","question":"Sur quelle île se trouve le Piton de la Fournaise, l'un des volcans les plus actifs au monde ?","choix":["La Réunion","La Martinique","Mayotte","La Corse"],"reponse":0,"explication":"C'est un site protégé, inscrit au patrimoine mondial de l'UNESCO.","source":"Livret p. 51"},
+  {"id":99,"theme":"histoire-geo-culture","question":"Quelle est la plus grande forêt de France ?","choix":["La forêt amazonienne, en Guyane","La forêt des Landes","La forêt des Vosges","La forêt de Fontainebleau"],"reponse":0,"explication":"Elle couvre 8 millions d'hectares. En métropole, les forêts couvrent 32 % du territoire.","source":"Livret p. 52"},
+  {"id":100,"theme":"histoire-geo-culture","question":"Quelle grotte de Dordogne est la plus célèbre grotte préhistorique de France ?","choix":["Lascaux","Chauvet","Altamira","Niaux"],"reponse":0,"explication":"On y trouve des peintures rupestres datant d'environ 18 000 à 15 000 ans avant Jésus-Christ.","source":"Livret p. 52"},
+  {"id":101,"theme":"histoire-geo-culture","question":"Quel musée parisien, installé dans une ancienne gare, possède la plus grande collection de peintures impressionnistes ?","choix":["Le musée d'Orsay","Le Louvre","Le musée Rodin","Le Centre Pompidou"],"reponse":0,"explication":"On y trouve des tableaux de Monet, Renoir, Cézanne ou Van Gogh. Le Louvre, lui, expose La Joconde de Léonard de Vinci.","source":"Livret p. 54"},
+  {"id":102,"theme":"histoire-geo-culture","question":"Quel poète est célèbre pour son recueil « Les Fleurs du Mal » ?","choix":["Charles Baudelaire","Guillaume Apollinaire","Victor Hugo","Albert Camus"],"reponse":0,"explication":"Baudelaire est un poète majeur du XIXe siècle, important dans la modernité poétique.","source":"Livret p. 55"},
+  {"id":103,"theme":"histoire-geo-culture","question":"Quelle romancière du XIXe siècle a utilisé un pseudonyme masculin pour publier ses écrits ?","choix":["George Sand","Marguerite Duras","Simone de Beauvoir","Marguerite Yourcenar"],"reponse":0,"explication":"Son vrai nom est Aurore Dupin. Elle est connue pour ses engagements féministes.","source":"Livret p. 55"},
+  {"id":104,"theme":"histoire-geo-culture","question":"Pour quelle occasion la tour Eiffel a-t-elle été conçue par Gustave Eiffel ?","choix":["L'Exposition universelle de 1889","Les Jeux Olympiques de 1924","L'Exposition universelle de 1900","Le bicentenaire de la Révolution"],"reponse":0,"explication":"Elle est devenue un symbole de Paris et attire plus de 7 millions de visiteurs par an.","source":"Livret p. 56"},
+  {"id":105,"theme":"histoire-geo-culture","question":"Dans quelle région se trouve le Mont-Saint-Michel ?","choix":["La Normandie","La Bretagne","La Provence-Alpes-Côte d'Azur","La Nouvelle-Aquitaine"],"reponse":0,"explication":"C'est un îlot rocheux au milieu d'une baie, inscrit au patrimoine mondial par l'UNESCO. Le Palais des Papes, lui, est à Avignon.","source":"Livret p. 56"},
+  {"id":106,"theme":"histoire-geo-culture","question":"Quelle fleur est traditionnellement offerte comme porte-bonheur le 1er mai ?","choix":["Le muguet","La rose","La marguerite","Le tournesol"],"reponse":0,"explication":"Le 1er mai est la fête du Travail, jour férié depuis 1947, avec des manifestations organisées par les syndicats.","source":"Livret p. 58"},
+  {"id":107,"theme":"histoire-geo-culture","question":"Quel jour a lieu la fête de la musique ?","choix":["Le 21 juin","Le 14 juillet","Le 1er mai","Le 11 novembre"],"reponse":0,"explication":"Lancée en 1982, elle permet à tous les musiciens de s'exprimer, notamment dans la rue.","source":"Livret p. 58"},
+  {"id":108,"theme":"histoire-geo-culture","question":"En quelle année a eu lieu la première édition du Tour de France ?","choix":["1903","1889","1924","1998"],"reponse":0,"explication":"60 coureurs s'affrontent sur six étapes. Le Tour a lieu chaque année en juillet et arrive sur les Champs-Élysées.","source":"Livret p. 58"},
+  {"id":109,"theme":"histoire-geo-culture","question":"Contre quel pays la France gagne-t-elle la finale de la Coupe du monde de football en 1998 ?","choix":["Le Brésil","La Croatie","L'Allemagne","L'Italie"],"reponse":0,"explication":"La France gagne à nouveau en 2018, contre la Croatie, et obtient sa deuxième étoile.","source":"Livret p. 59"},
+  {"id":110,"theme":"histoire-geo-culture","question":"En quelle année Paris avait-elle accueilli les Jeux Olympiques avant l'édition de 2024 ?","choix":["1924","1900","1948","1968"],"reponse":0,"explication":"Les Jeux de 2024 ont eu lieu cent ans après la dernière édition parisienne.","source":"Livret p. 59"},
+
+  {"id":111,"theme":"vie-societe","question":"Que faut-il obligatoirement pour acheter un bien immobilier ?","choix":["Un acte signé chez le notaire","Un accord écrit du maire","Une autorisation du préfet","Un contrat d'assurance seulement"],"reponse":0,"explication":"Toute personne peut devenir propriétaire d'un bien ancien ou neuf.","source":"Livret p. 62"},
+  {"id":112,"theme":"vie-societe","question":"Un locataire veut peindre les murs de son logement. Doit-il demander la permission au propriétaire ?","choix":["Non, les travaux décoratifs comme la peinture sont permis","Oui, pour tous les travaux sans exception","Oui, et il doit aussi prévenir la mairie","Non, il peut aussi abattre des murs"],"reponse":0,"explication":"Pour d'autres travaux, il doit demander la permission du propriétaire.","source":"Livret p. 62"},
+  {"id":113,"theme":"vie-societe","question":"Que signifie HLM ?","choix":["Habitation à loyer modéré","Hébergement léger mobile","Habitat locatif municipal","Hôtel à logement mensuel"],"reponse":0,"explication":"Le logement social aide les personnes à ressources modestes. La demande se fait en ligne sur le site officiel.","source":"Livret p. 63"},
+  {"id":114,"theme":"vie-societe","question":"Quel document prouve que le véhicule appartient à son propriétaire ?","choix":["La carte grise","Le permis de conduire","Le contrôle technique","La carte Vitale"],"reponse":0,"explication":"Pour conduire, il faut aussi un permis valide, une assurance et un contrôle technique à jour.","source":"Livret p. 63"},
+  {"id":115,"theme":"vie-societe","question":"Une personne sans handicap peut-elle se garer sur une place réservée aux personnes handicapées ?","choix":["Non, ces places sont réservées aux titulaires d'une carte « mobilité inclusion »","Oui, pour quelques minutes","Oui, si le parking est vide","Oui, avec une carte Vitale"],"reponse":0,"explication":"Ces places sont réservées aux personnes en situation de handicap.","source":"Livret p. 63"},
+  {"id":116,"theme":"vie-societe","question":"Que risque une personne qui conduit sans permis ?","choix":["Jusqu'à un an de prison et 15 000 euros d'amende","Un simple avertissement","Une amende de 68 euros","Trois mois de prison avec sursis automatique"],"reponse":0,"explication":"Conduire avec un taux d'alcool supérieur à 0,8 g/l peut aller jusqu'à 3 ans de prison, 9 000 euros d'amende et l'annulation du permis pendant 5 ans.","source":"Livret p. 63-64"},
+  {"id":117,"theme":"vie-societe","question":"Un enfant mineur dont vous avez la responsabilité casse la vitre d'un voisin. Que se passe-t-il ?","choix":["Votre responsabilité civile est engagée : vous devez réparer le dommage","Rien, un enfant n'est jamais responsable","C'est le voisin qui doit payer","La mairie paie la réparation"],"reponse":0,"explication":"C'est aussi vrai pour un animal domestique ou un objet sous votre responsabilité. L'assurance permet d'indemniser les victimes.","source":"Livret p. 64"},
+  {"id":118,"theme":"vie-societe","question":"Depuis le 1er juillet 2025, où est-il interdit de fumer pendant les heures d'ouverture ?","choix":["Dans les parcs et jardins publics","Dans la rue","Sur son balcon","Sur les trottoirs"],"reponse":0,"explication":"Fumer dans l'espace public reste autorisé, sauf dans certains lieux (parcs, plages, abords des écoles…). Le non-respect est puni d'une amende de 135 euros.","source":"Livret p. 65"},
+  {"id":119,"theme":"vie-societe","question":"À partir de quel âge peut-on légalement acheter de l'alcool ?","choix":["18 ans","16 ans","21 ans","15 ans"],"reponse":0,"explication":"Il est interdit de vendre de l'alcool aux mineurs de moins de 18 ans.","source":"Livret p. 65"},
+  {"id":120,"theme":"vie-societe","question":"Que doit faire le propriétaire d'un chien dont l'animal fait ses besoins dans l'espace public ?","choix":["Ramasser les déjections, sous peine d'amende","Rien, c'est naturel","Les couvrir de terre","Appeler la mairie"],"reponse":0,"explication":"Jeter ses déchets en dehors des poubelles est aussi interdit et peut être puni d'une amende.","source":"Livret p. 66"},
+  {"id":121,"theme":"vie-societe","question":"Quels déchets doivent obligatoirement être triés pour le compostage depuis 2024 ?","choix":["Les déchets verts et alimentaires","Les déchets électroniques","Les meubles","Le verre uniquement"],"reponse":0,"explication":"Les sacs plastiques à usage unique non recyclables sont interdits depuis janvier 2017.","source":"Livret p. 66"},
+  {"id":122,"theme":"vie-societe","question":"À combien de degrés maximum recommande-t-on de régler son chauffage ?","choix":["19 °C","22 °C","16 °C","25 °C"],"reponse":0,"explication":"Autres gestes : régler le chauffe-eau à 55 °C et éteindre les appareils en veille.","source":"Livret p. 67"},
+  {"id":123,"theme":"vie-societe","question":"En quelle année a été créée la Sécurité sociale ?","choix":["1945","1789","1958","1981"],"reponse":0,"explication":"Elle est née à la Libération, de la volonté de solidarité nationale. La carte Vitale justifie les droits à l'Assurance Maladie.","source":"Livret p. 68"},
+  {"id":124,"theme":"vie-societe","question":"Quel est le numéro d'appel d'urgence européen ?","choix":["Le 112","Le 15","Le 17","Le 115"],"reponse":0,"explication":"Le 15 est le SAMU, le 17 la police secours, le 18 les pompiers, le 115 l'hébergement d'urgence.","source":"Livret p. 69"},
+  {"id":125,"theme":"vie-societe","question":"Quel numéro appeler pour signaler un enfant maltraité ?","choix":["Le 119","Le 3919","Le 3018","Le 114"],"reponse":0,"explication":"Le 3919 est pour les violences conjugales, le 3018 pour le harcèlement scolaire, le 114 est un numéro par SMS pour les personnes malentendantes.","source":"Livret p. 69"},
+  {"id":126,"theme":"vie-societe","question":"Quelle est la durée légale du temps de travail par semaine ?","choix":["35 heures","39 heures","40 heures","32 heures"],"reponse":0,"explication":"Elle est fixée par le code du travail. Le SMIC est le salaire horaire minimum garanti en France.","source":"Livret p. 70"},
+  {"id":127,"theme":"vie-societe","question":"Quelle juridiction est compétente en cas de litige entre un employeur et son salarié ?","choix":["Le conseil de prud'hommes","Le tribunal de police","La cour d'assises","Le Conseil constitutionnel"],"reponse":0,"explication":"Le règlement intérieur, lui, est obligatoire dans les entreprises d'au moins 50 salariés.","source":"Livret p. 70"},
+  {"id":128,"theme":"vie-societe","question":"Quel organisme public aide à trouver un emploi et peut verser l'allocation d'aide au retour à l'emploi (ARE) ?","choix":["France Travail","La CPAM","La mairie","Le conseil de prud'hommes"],"reponse":0,"explication":"Pour les jeunes de moins de 25 ans, l'accompagnement est réalisé par les Missions Locales.","source":"Livret p. 71"},
+  {"id":129,"theme":"vie-societe","question":"Comment les fonctionnaires sont-ils recrutés, en principe ?","choix":["Par concours","Sur recommandation du maire","Par tirage au sort","Par un entretien avec le Président"],"reponse":0,"explication":"La sélection se fait uniquement en fonction des compétences et des qualités, sans discrimination.","source":"Livret p. 72"},
+  {"id":130,"theme":"vie-societe","question":"Quel mariage est reconnu par la loi en France ?","choix":["Seulement le mariage civil célébré en mairie","Le mariage religieux","Les deux, au choix","Le mariage célébré à l'étranger uniquement"],"reponse":0,"explication":"Le mariage est possible dès 18 ans, ou dès 16 ans avec l'autorisation du procureur de la République et l'accord des parents.","source":"Livret p. 73"},
+  {"id":131,"theme":"vie-societe","question":"La polygamie (être marié à plusieurs personnes à la fois) est-elle autorisée en France ?","choix":["Non, elle est interdite et constitue une infraction pénale","Oui, si les deux mariages sont religieux","Oui, avec l'accord du maire","Oui, après 40 ans"],"reponse":0,"explication":"La France autorise en revanche le mariage entre personnes de même sexe depuis la loi du 17 mai 2013.","source":"Livret p. 73"},
+  {"id":132,"theme":"vie-societe","question":"Dans quel délai faut-il déclarer la naissance d'un enfant ?","choix":["Dans les 5 jours qui suivent la naissance","Dans les 48 heures","Dans les 3 mois","Dans l'année"],"reponse":0,"explication":"La déclaration des naissances, des mariages et des décès à l'état civil est obligatoire.","source":"Livret p. 73"},
+  {"id":133,"theme":"vie-societe","question":"Quelle organisation de l'ONU agit sur le fondement de la Convention internationale des droits de l'enfant (1989) ?","choix":["L'UNICEF","L'UNESCO","L'OTAN","L'OIF"],"reponse":0,"explication":"196 États ont signé ce texte, qui impose des obligations aux États pour protéger les enfants.","source":"Livret p. 74"},
+  {"id":134,"theme":"vie-societe","question":"Les châtiments corporels sont-ils autorisés pour éduquer un enfant ?","choix":["Non, l'autorité parentale s'exerce sans violence physique ni psychologique","Oui, avec modération","Oui, à partir de 10 ans","Oui, si l'enfant a désobéi"],"reponse":0,"explication":"Les maltraitances, comme l'excision et les châtiments corporels, portent atteinte à l'intégrité physique et à la dignité de l'enfant.","source":"Livret p. 74"},
+  {"id":135,"theme":"vie-societe","question":"Combien d'années dure la scolarité au collège ?","choix":["Quatre ans","Trois ans","Cinq ans","Six ans"],"reponse":0,"explication":"Le lycée dure trois ans (seconde, première, terminale). L'école élémentaire accueille les enfants de 6 à 11 ans.","source":"Livret p. 75"},
+  {"id":136,"theme":"vie-societe","question":"À quel âge la majorité numérique est-elle fixée en France ?","choix":["15 ans","13 ans","16 ans","18 ans"],"reponse":0,"explication":"Depuis la loi du 7 juillet 2023, avant cet âge, on ne peut plus s'inscrire seul sur les réseaux sociaux.","source":"Livret p. 76"}
+]
